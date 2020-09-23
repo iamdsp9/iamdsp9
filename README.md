@@ -8,12 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-@devanshupreetam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshupreetam@gmail.com)](mailto:devanshupreetam@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/-@SekharPreetam-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/9438324698)](https://wa.me/9438324698)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
-[![GitHub followers](https://img.shields.io/github/followers/ankush0939?label=Follow&style=social)](https://github.com/ankush0939/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/iamdsp9?label=Follow&style=social)](https://github.com/iamdsp9/?tab=follow)
 
 ---
 
 ## I'm an Inquisitive Coder & Tech Enthusiast  
-- 📌 I’m currently working on Android Developement
+- 📌 I’m currently pursuing Competitive programming
 - 📌 I’m currently learning Kotlin & Python.
 - 📌 I’m looking forward to work as a Data Scientist & SDE
 
