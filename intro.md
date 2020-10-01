@@ -1,20 +1,20 @@
 # Hi there, I'm Devanshu 🙂
 
 ## Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@SekharPreetam-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/SekharPreetam)](https://twitter.com/SekharPreetam) 
-[![Linkedin Badge](https://img.shields.io/badge/-@SekharPreetam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devanshu-sekhar-preetam-197388124/)](https://www.linkedin.com/in/devanshu-sekhar-preetam-197388124/) 
-[![Facebook Badge](https://img.shields.io/badge/-@SekharPreetam-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devanshusekhar.preetam)](https://www.facebook.com/devanshusekhar.preetam) 
-[![Instagram Badge](https://img.shields.io/badge/-@SekharPreetam-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/sekharpreetam/)](https://www.instagram.com/sekharpreetam/)
+[![Twitter Badge](https://img.shields.io/badge/-@iamdsp9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/SekharPreetam)](https://twitter.com/iamdsp9) 
+[![Linkedin Badge](https://img.shields.io/badge/-@iamdsp9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devanshu-sekhar-preetam-197388124/)](https://www.linkedin.com/in/devanshu-sekhar-preetam-197388124/) 
+[![Facebook Badge](https://img.shields.io/badge/-@iamdsp9-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devanshusekhar.preetam)](https://www.facebook.com/devanshusekhar.preetam) 
+[![Instagram Badge](https://img.shields.io/badge/-@iamdsp9-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/sekharpreetam/)](https://www.instagram.com/sekharpreetam/)
 [![Gmail Badge](https://img.shields.io/badge/-@devanshupreetam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshupreetam@gmail.com)](mailto:devanshupreetam@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-@SekharPreetam-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/<9438324698>)](https://wa.me/<9438324698>)
+[![Whatsapp Badge](https://img.shields.io/badge/-@WA me ✉-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.link/py7hdl)](https://wa.link/py7hdl)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/iamdsp9?label=Follow&style=social)](https://github.com/iamdsp9/?tab=follow)
 
 ---
 
-## I'm an Inquisitive Coder & Tech Enthusiast  
+## I'm an Inquisitive Coder & Web Developer  
 - 📌 I’m currently pursuing Competitive programming
-- 📌 I’m currently learning Kotlin & Python.
+- 📌 I’m currently learning Python.
 - 📌 I’m looking forward to work as a Data Scientist & SDE
 
 
