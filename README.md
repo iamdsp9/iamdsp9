@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-@SekharPreetam-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devanshusekhar.preetam)](https://www.facebook.com/devanshusekhar.preetam) 
 [![Instagram Badge](https://img.shields.io/badge/-@SekharPreetam-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/sekharpreetam/)](https://www.instagram.com/sekharpreetam/)
 [![Gmail Badge](https://img.shields.io/badge/-@devanshupreetam@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devanshupreetam@gmail.com)](mailto:devanshupreetam@gmail.com)
-[![Whatsapp Badge](https://img.shields.io/badge/-@SekharPreetam-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/9438324698)](https://wa.me/9438324698)
+[![Whatsapp Badge](https://img.shields.io/badge/-@SekharPreetam-darkgreen?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/<9438324698>)](https://wa.me/<9438324698>)
 <!--[![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.me/sakshamtaneja)-->
 [![GitHub followers](https://img.shields.io/github/followers/iamdsp9?label=Follow&style=social)](https://github.com/iamdsp9/?tab=follow)
 
