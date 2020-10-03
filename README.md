@@ -1,4 +1,4 @@
-# Hi there, I'm Devanshu 🙂
+# Hi there, I'm Devanshu ✌🏻
 
 ## Connect with me:
 [![Twitter Badge](https://img.shields.io/badge/-@iamdsp9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iamdsp9)](https://twitter.com/iamdsp9) 
@@ -21,7 +21,7 @@
 <br />
 
 ## Me 🎭:
-I am an inquisitive E.C.E Undergrad who is fluent with the basics of C,C++, & Python. Exploring new spheres of digital as well as real world is my avocation.I am quite enthusiastic about competitive coding as well as optimizing complex algorithms.App Development is the next big thing in the world and I am currently working on my skills for that.I also have basic idea on Ethical Hacking & Digital Marketing.  
+I am an inquisitive E.C.E Undergrad who is fluent with the basics of C,C++, & Python. Exploring new spheres of digital as well as real world is my avocation.I am quite enthusiastic about competitive coding as well as optimizing complex algorithms.Web Development is the next big thing in the world and I am currently working on my skills for that.I also have basic idea on Ethical Hacking & Digital Marketing.I am a Python Sophomore.  
 
 ## Languages and Tools 📗:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
