@@ -15,13 +15,13 @@
 ## I'm an Inquisitive Coder & Web Developer  
 - 📌 I’m currently pursuing Competitive programming
 - 📌 I’m currently learning Python.
-- 📌 I’m looking forward to work as a Data Scientist & SDE
+- 📌 I’m looking forward to work as a SDE
 
 
 <br />
 
 ## Me 🎭:
-I am an inquisitive E.C.E Undergrad who is fluent with the basics of C,C++, & Python. Exploring new spheres of digital as well as real world is my avocation.I am quite enthusiastic about competitive coding as well as optimizing complex algorithms.Web Development is the next big thing in the world and I am currently working on my skills for that.I also have basic idea on Ethical Hacking & Digital Marketing.I am a Python Sophomore.  
+I am an inquisitive E.C.E Sophomore who is fluent with the basics of C,C++, & Python. Exploring new spheres of digital as well as real world is my avocation.I am quite enthusiastic about competitive coding as well as optimizing complex algorithms.Web Development is the next big thing in the world and I am currently working on my skills for that.I also have basic idea on Ethical Hacking & Digital Marketing.  
 
 ## Languages and Tools 📗:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
