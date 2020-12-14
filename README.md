@@ -1,7 +1,7 @@
 # Hi there, I'm Devanshu ✌🏻
 
 ## Connect with me:
-[![Twitter Badge](https://img.shields.io/badge/-@iamdsp9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iamdsp9)](https://twitter.com/iamdsp9) 
+[![Twitter Badge](https://img.shields.io/badge/-@iamdsp9-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://https://twitter.com/iamdsp9 target="_blank")](https://twitter.com/iamdsp9) 
 [![Linkedin Badge](https://img.shields.io/badge/-@iamdsp9-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamdsp9/)](https://www.linkedin.com/in/iamdsp9/) 
 [![Facebook Badge](https://img.shields.io/badge/-@iamdsp9-darkblue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/devanshusekhar.preetam)](https://www.facebook.com/devanshusekhar.preetam) 
 [![Instagram Badge](https://img.shields.io/badge/-@iamdsp9-black?style=flat-square&labelColor=ff69b4&logo=instagram&logoColor=black&link=https://www.instagram.com/iamdsp9/)](https://www.instagram.com/iamdsp9/)
