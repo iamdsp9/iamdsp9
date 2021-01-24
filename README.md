@@ -14,7 +14,7 @@
 
 ## I'm an Inquisitive Coder & Web Developer  
 - 📌 I’m currently pursuing Competitive programming
-- 📌 I’m currently learning Python.
+- 📌 I’m currently learning React
 - 📌 I’m looking forward to work as a SDE
 
 
